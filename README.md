@@ -4,6 +4,12 @@
 
 ---
 
+## 📚 References
+
+https://formlabs.com/blog/how-to-3d-print-interlocking-joints/
+
+---
+
 ## 🚀 Features
 
 *   **Interlocking joints:** Interlocking parts and assemblies.
